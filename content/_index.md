@@ -8,7 +8,8 @@ template = "homepage.html"
 
 ## About Me
 
-Hello! I’m Mario Daniel Panuco. I hold an M.S. in Scientific Computing and Applied Mathematics from UC Santa Cruz, following a B.S. in Computer Science Engineering.
+Hello! I’m Mario Daniel Panuco. I hold an M.S. in Scientific Computing and
+Applied Mathematics and B.S. in Computer Science Engineering from UC Santa Cruz.
 
 I’m interested in mathematical and computational models of complex, high-dimensional systems, particularly physical and biological systems governed by multiscale dynamics.
 
@@ -18,19 +19,19 @@ More broadly, I’m interested in computational methods that remain useful when 
 
 ## Interests
 
-- **Neural operators and scientific machine learning** — spectral, wavelet, and other operator-learning methods for PDEs; multiscale dynamics; long-horizon evaluation; and learned surrogate models.
+- **Neural operators and SciML:** spectral, wavelet, and other operator-learning methods for PDEs; multiscale dynamics; long-horizon evaluation; and learned surrogate models.
 
-- **Physics, digital twins, and control** — reduced and learned models for real-time prediction, state estimation, and feedback control, including applications such as plasma dynamics and magnetic-field shaping.
+- **Physics, digital twins, and control:** reduced and learned models for real-time prediction, state estimation, and feedback control, including applications such as hydrodynamics and magnetic-field shaping.
 
-- **Inverse problems and differentiable simulation** — computational imaging, wave reconstruction, parameter estimation, and differentiable forward models for scientific inference.
+- **Inverse problems and differentiable simulation:** computational imaging, wave reconstruction, parameter estimation, and differentiable forward models for scientific inference.
 
-- **Computational biology** — computational models of organoids, genomics, and other biological systems where high-dimensional measurements can be connected to interpretable mechanisms.
+- **Computational biology:** computational models of organoids, genomics, and other biological systems where high-dimensional measurements can be connected to interpretable mechanisms.
 
-- **Representation learning for physical systems** — latent and joint-embedding predictive models, including JEPA-style approaches, for learning compact representations of scientific dynamics.
+- **Representation learning for physical systems:** latent and joint-embedding predictive models, including JEPA-style techniques, for learning compact representations of scientific and control dynamics.
 
-- **Complex dynamics** — chaotic PDEs, reduced-order modeling, coarse-graining, and evaluation methods that remain meaningful after pointwise trajectories diverge.
+- **Complex dynamics:** chaotic PDEs, reduced-order modeling, coarse-graining, and evaluation methods that remain meaningful after pointwise trajectories diverge.
 
-- **Scientific software and HPC** — numerical algorithms, GPU computing, heterogeneous systems, performance engineering, and software infrastructure that accelerates scientific experimentation.
+- **Scientific software and HPC:** numerical algorithms, GPU computing, heterogeneous systems, performance engineering, and software infrastructure that accelerates scientific experimentation.
 
 Elsewhere: [/projects](@/projects/_index.md) and
 [/teaching](@/teaching.md).
